@@ -1,0 +1,11 @@
+Z:\C2 - C#\TFC2-BloqueDeSintesis\JuegoDelAhorcado\bin\Debug\JuegoDelAhorcado.exe.config
+Z:\C2 - C#\TFC2-BloqueDeSintesis\JuegoDelAhorcado\bin\Debug\JuegoDelAhorcado.exe
+Z:\C2 - C#\TFC2-BloqueDeSintesis\JuegoDelAhorcado\bin\Debug\JuegoDelAhorcado.pdb
+Z:\C2 - C#\TFC2-BloqueDeSintesis\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.csproj.AssemblyReference.cache
+Z:\C2 - C#\TFC2-BloqueDeSintesis\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.csproj.SuggestedBindingRedirects.cache
+Z:\C2 - C#\TFC2-BloqueDeSintesis\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.Form1.resources
+Z:\C2 - C#\TFC2-BloqueDeSintesis\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.Properties.Resources.resources
+Z:\C2 - C#\TFC2-BloqueDeSintesis\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.csproj.GenerateResource.cache
+Z:\C2 - C#\TFC2-BloqueDeSintesis\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.csproj.CoreCompileInputs.cache
+Z:\C2 - C#\TFC2-BloqueDeSintesis\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.exe
+Z:\C2 - C#\TFC2-BloqueDeSintesis\JuegoDelAhorcado\obj\Debug\JuegoDelAhorcado.pdb
